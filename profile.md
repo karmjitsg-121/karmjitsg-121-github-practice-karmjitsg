@@ -13,3 +13,8 @@
 
 ## Fun Fact
 I enjoy building applications that are used by my family in daily life.
+    
+## Current Learning
+- Git & GitHub fundamentals
+- REST APIs
+- Cloud deployment basics
